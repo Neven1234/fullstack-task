@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\task\\ToDoList Api\\ToDoList\\ToDoList\\ToDoList.csproj": {}
+    "E:\\ToDoListTask\\fullstack-task\\ToDoList Api\\ToDoList\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "E:\\task\\ToDoList Api\\ToDoList\\ToDoList\\ToDoList.csproj": {
+    "E:\\ToDoListTask\\fullstack-task\\ToDoList Api\\ToDoList\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\task\\ToDoList Api\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "E:\\ToDoListTask\\fullstack-task\\ToDoList Api\\ToDoList\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "E:\\task\\ToDoList Api\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectPath": "E:\\ToDoListTask\\fullstack-task\\ToDoList Api\\ToDoList\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\JC.TECH\\.nuget\\packages\\",
-        "outputPath": "E:\\task\\ToDoList Api\\ToDoList\\ToDoList\\obj\\",
+        "outputPath": "E:\\ToDoListTask\\fullstack-task\\ToDoList Api\\ToDoList\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,36 +46,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[7.0.10, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
